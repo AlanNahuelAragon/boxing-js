@@ -18,7 +18,7 @@ const flashes = new Sprite({
     x: 0,
     y: 0
   },
-  imageSrc: './assets/img/flashes.png',
+  imageSrc: './assets/img/Flashes.png',
   framesMax: 6
 })
 
